@@ -16,6 +16,6 @@ Notes:
 
 I wrote this game to learn about object oriented programming.
 
-The physics portion was learned in the Udacity CS222 course.
+The physics portion was learnt in the Udacity CS222 course.
 
 
